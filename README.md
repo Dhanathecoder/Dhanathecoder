@@ -1,6 +1,6 @@
 ## HI I'M Dhanalakshmi👩‍💻
 
-<img align="right" width="256" height="256" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"> 
+<img align="right" width="256" height="256" src="https://img.freepik.com/premium-photo/lofi-study-beats-focus-vibe-illustration_863013-147835.jpg"> 
 
 
 - 🌱 I’m currently doing my master's in Computer Science
