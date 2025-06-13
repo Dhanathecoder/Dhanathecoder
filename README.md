@@ -6,7 +6,7 @@
 - 🌱 I’m currently doing my master's in Computer Science
 - 👯 I’m lookin forward to learn and deploy 
 
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mdhanalakshmi/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/mdhanalakshmi/)](https://in.linkedin.com/in/m-dhanalakshmi?trk=public_profile_samename-profile)
 
 
 ### I code in
